@@ -55,6 +55,12 @@
 * **Tech:** C++ / OOP / File I/O
 * **Key Feature:** Uses **Maps** to manage data, generates histograms, and creates `frequency.dat` backup files.
 
+### ⚾ [Vector Park Analytics](https://github.com/Katastroph1cc1/vector-park-analytics)
+A full-stack major league analytics environment processing microclimate shifts and Statcast metrics.
+* Built a **10,000-run Monte Carlo simulation grid** in Python to calculate dynamic, weather-adjusted home run trajectories.
+* Integrates live MLB boxscores and automated data streams to pull active team starting lineups on the fly.
+* Features a high-fidelity dark-mode user interface engineered with React, Vite, and Tailwind CSS.
+
 ---
 
 ## 🎒 Inventory & Certs
